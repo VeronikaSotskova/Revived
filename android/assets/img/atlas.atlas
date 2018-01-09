@@ -1,0 +1,40 @@
+atlas.png
+size: 1081, 416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 1, 1
+  size: 512, 380
+  orig: 512, 380
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 515, 1
+  size: 565, 139
+  orig: 565, 139
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 515, 142
+  size: 565, 139
+  orig: 565, 139
+  offset: 0, 0
+  index: -1
+checkbox
+  rotate: false
+  xy: 515, 283
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+checkbox2
+  rotate: false
+  xy: 649, 283
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
